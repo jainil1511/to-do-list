@@ -20,9 +20,18 @@ Nodejs application that let's you add and remove task on page.The Application ma
      
    ![todolist1](https://user-images.githubusercontent.com/65818262/88512380-1b054c00-d004-11ea-99ce-c3df121030ec.JPG)
    
-   <p>If You need Your Own Page Like localhost:3000/JD. So in This it's your page Nd you can add and delete Item see in example
+   <p>If You need Your Own Page Like localhost:3000/Arpita. So in This it's your page Nd you can add and delete Item see in example
  
-    
+   ![todolist2](https://user-images.githubusercontent.com/65818262/88512383-1b9de280-d004-11ea-8d6a-3592aa55fb86.JPG)
+ 
+ 
+  
+#### How to run the app locally:
+  ```html
+   1. Run npm install to install all needed Dependency
+   2.then start the server using node/nodemon app.js
+   3.navigate to Your Browser http://localhost:3000/ to view the app.
+  ```  
  
    
     
