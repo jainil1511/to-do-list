@@ -14,11 +14,15 @@ Nodejs application that let's you add and remove task on page.The Application ma
   - mongoose : Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.
   
 
-### image1  
+### image
 
    <p>You can Enter Item And Click to add the Item is add to the List.And if You need to delete the Item you can click the Checkbox.Item is deleted from the List.
      
    ![todolist1](https://user-images.githubusercontent.com/65818262/88512380-1b054c00-d004-11ea-99ce-c3df121030ec.JPG)
    
+   <p>If You need Your Own Page Like localhost:3000/JD. So in This it's your page Nd you can add and delete Item see in example
+ 
+    
+ 
    
     
